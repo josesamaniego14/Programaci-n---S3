@@ -1,7 +1,10 @@
 # Programaci-n---S3
 TAREAS 1ER PARCIAL
+
 El siguiente print es el resultado del código realizado:
 ![image](https://github.com/josesamaniego14/Programaci-n---S3/assets/169215284/295dee10-61b2-437b-8420-58ab791f2282)
+
+
 Label (Etiqueta): Los labels se usaron para mostrar texto estático en la interfaz de usuario. En este caso, se crearon cinco labels (label1 a label5) para mostrar nombres de personas.
 ListView: Se utilizó un ListView para mostrar una lista de elementos. En este caso, se creó un ListView (listView) para mostrar elementos de texto.
 AnchorPane: AnchorPane es un contenedor de diseño que permite anclar los nodos hijos a las esquinas o bordes del contenedor. Se usó para organizar y posicionar los elementos de la interfaz de usuario de manera relativa. Cada nodo se ancló a una posición específica dentro del AnchorPane utilizando métodos como setTopAnchor, setBottomAnchor, setLeftAnchor y setRightAnchor.
