@@ -2,7 +2,7 @@
 TAREAS 1ER PARCIAL
 
 El siguiente print es el resultado del código realizado:
-![image](https://github.com/josesamaniego14/Programaci-n---S3/assets/169215284/295dee10-61b2-437b-8420-58ab791f2282)
+(https://github.com/josesamaniego14/Programaci-n---S3/assets/169215284/295dee10-61b2-437b-8420-58ab791f2282)
 
 
 Label (Etiqueta): Los labels se usaron para mostrar texto estático en la interfaz de usuario. En este caso, se crearon cinco labels (label1 a label5) para mostrar nombres de personas.
